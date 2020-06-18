@@ -1,4 +1,4 @@
-Usage
+Usage:
 1. clone project from Github
 2. run project in android studio
 3. enjoy!
